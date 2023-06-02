@@ -1,0 +1,22 @@
+.cont{
+    width: 100%;  
+}
+.contImages{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.Images{
+    width: 200px;
+    height: 100px; 
+}
+.divSlider{
+    width: 100%;
+    background-repeat:no-repeat;
+    background-size: 100%;
+    margin-top: 2%;
+}
+.imgSlider{
+    width: 100%;
+    height: 700px;
+}
